@@ -1,0 +1,36 @@
+body{background-color: darkseagreen;
+}
+h1{color: aliceblue;}
+
+.p1{text-align: center;
+font-size: 120%;
+color: blue;
+}
+.p1{border-width: 5px;
+border-color: chartreuse;
+border-style: dashed;
+padding-top: 2%;
+}
+.p1{background-color: cadetblue;
+}
+.p2{border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    margin-left: 10%;
+padding-left: 2%;  
+color: dimgray; 
+}
+.p3{border-width: 5px;
+    border-color: chartreuse;
+    border-style: dashed;
+    margin-left: 10%;
+    padding-left: 4%;
+    color: green;   
+    }
+.p4{border-width: 5px;
+    border-color: chocolate;
+    border-style: dashed;
+    margin-left: 10%;
+        padding-left: 6%;
+        color: red;   
+        }
